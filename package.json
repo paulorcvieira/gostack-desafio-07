@@ -1,7 +1,9 @@
 {
-  "name": "desafio-07",
-  "version": "0.1.0",
+  "name": "gofinances",
+  "version": "1.0.0",
   "private": true,
+  "author": "Paulo Vieira",
+  "repository": "https://github.com/paulorcvieira/gostack-desafio-07",
   "dependencies": {
     "axios": "^0.19.2",
     "filesize": "^6.1.0",

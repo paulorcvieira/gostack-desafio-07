@@ -8,6 +8,9 @@ export const Container = styled.ul`
     justify-content: space-between;
     align-items: center;
     color: #444;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 10px;
 
     & + li {
       margin-top: 15px;
@@ -34,10 +37,23 @@ export const FileInfo = styled.div`
     flex-direction: column;
     justify-content: space-between;
 
-    span {
-      font-size: 12px;
-      color: #999;
-      margin-top: 5px;
+    div {
+      display: flex;
+      flex-direction: row;
+
+      span {
+        font-size: 12px;
+        color: #999;
+        margin-top: 5px;
+      }
+
+      i {
+        justify-content: flex-start;
+        font-size: 12px;
+        color: #999;
+        margin-top: 5px;
+        margin-right: auto;
+      }
     }
   }
 `;
