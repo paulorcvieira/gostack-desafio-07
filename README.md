@@ -24,12 +24,12 @@
 </div>
 
 ---
-<br /><br />
+<br />
 ## 💻 Project
 - Project developed during <strong> Bootcamp GoStack #13 </strong> which has the educational objective.
 <strong> GoFinances </strong> is an application where the user can control his finances.
 ---
-<br /><br />
+<br />
 ## :rocket: Technologies
 
 - [x] React.js
@@ -42,24 +42,24 @@
 - [x] React Dropzone
 
 ---
-<br /><br />
+<br />
 ## :arrow_forward:  Usage
 
 1. Run `yarn install` or `npm install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
 
 ---
-<br /><br />
+<br />
 ## 🛠 Contributing
 
 - Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
 ---
-<br /><br />
+<br />
 ## 🧾 Licence
 
 - Please read [LICENSE](LICENSE.md) for details.
 
 ---
-<br /><br />
+<br />
 Made with 💜 &nbsp; by [Paulo Vieira](https://www.linkedin.com/in/paulorcvieira/)
